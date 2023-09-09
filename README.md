@@ -2,7 +2,7 @@
 **_Monster Orc-arina_** is a cute little toy with a monstrous sound.
 
 ## Description
-A pick-up-and-play instrument is hard to come by on the Game Boy, as most music carts are complex DAW-type systems with many options. **_Monster Orc-arina_** means to remedy that, by giving anyone the ability to create music. 
+A pick-up-and-play instrument is hard to come by on the Game Boy, as most music carts are complex DAW-type systems with many options. **_Monster Orc-arina_** means to remedy that by giving anyone the ability to create music. 
 
 **Features:**
 
