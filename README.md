@@ -27,4 +27,4 @@ Created for [GBCompo23](https://itch.io/jam/gbcompo23). **Theme:** "You are the 
 **Code, Design, Art:** [Pearacidic](https://pearacidic.itch.io)
 **Music:** [Beatscribe](https://beatscribe.itch.io)
 
-This game is considered open source under the GNU General Public License Version 3, and Creative Commons Attribution International 4.0. Please link back to this page, credit [Beatscribe](https://beatscribe.itch.io) if you use his music, and credit [Pearacidic](https://pearacidic.itch.io) or Pearacidic Games if you use any of the art or code.
+This tool is considered open source under the GNU General Public License Version 3, and Creative Commons Attribution International 4.0. Please link back to this page, credit [Beatscribe](https://beatscribe.itch.io) if you use his music, and credit [Pearacidic](https://pearacidic.itch.io) or Pearacidic Games if you use any of the art or code.
