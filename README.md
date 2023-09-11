@@ -16,9 +16,9 @@ Since the built-in note indicator shows you the note you are about to or are cur
 **Controls:**
 
 - **Control Pad** (arrows or wasd): Moves the monster's eye and controls note input.
-- **B Button** (x, k, ctrl): When held with the Control Pad, it plays the note shown.
-- **A Button** (z, j, alt): When pressed with UP or DOWN, it changes the octave.
-- **A and B Button** (z, j, alt) and (x, k, ctrl)​: When pressed together with a direction on the Control Pad, it will play either the # (sharp) or b (flat) note related to the note shown.
+- **B Button** (x, k, ctrl): When held with the **Control Pad**, it plays the note shown.
+- **A Button** (z, j, alt): When pressed with **UP** or **DOWN**, it changes the octave.
+- **A and B Button** (z, j, alt) and (x, k, ctrl)​: When pressed together with a direction on the **Control Pad**, it will play either the # (sharp) or b (flat) note related to the note shown.
 - **Select Button** (shift): Changes between the three sounds/voices/instruments.
 - **Start Button** (enter): Selects menu options or allows you to return from How to Play or the Credits.
 
